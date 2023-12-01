@@ -2,6 +2,7 @@
 /**
  * binary_tree_delete - free an entire tree recursively
  * @tree: tree to delete
+ * Return: void
  */
 void binary_tree_delete(binary_tree_t *tree)
 {
